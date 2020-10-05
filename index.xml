@@ -10,46 +10,64 @@
 			<year> Year of Release </year>
 		</entry>
 		<entry>
-			<name> OK </name>
-			<Artist> Artist1 </Artist>
-			<genre> Rap </genre>
-			<year> 2015 </year>
+			<name> Here Comes the Sun </name>
+			<Artist> The Beatles </Artist>
+			<genre> Pop Rock </genre>
+			<year> 1969 </year>
 		</entry>
 		<entry>
-			<name> Test2 </name>
-			<Artist> Artist2 </Artist>
+			<name> Better </name>
+			<Artist> Khalid </Artist>
+			<genre> RandB or Soul </genre>
+			<year> 2018 </year>
+		</entry>
+		<entry>
+			<name> Location </name>
+			<Artist> Khalid </Artist>
 			<genre> R and B </genre>
 			<year> 2017 </year>
 		</entry>
 		<entry>
-			<name> OK </name>
-			<Artist> Artist1 </Artist>
+			<name> Yesterday </name>
+			<Artist> The Beatles </Artist>
+			<genre> Chamber pop </genre>
+			<year> 1965 </year>
+		</entry>
+		<entry>
+			<name> Let it Be </name>
+			<Artist> The Beatles </Artist>
+			<genre> Pop music </genre>
+			<year> 2015 </year>
+		</entry>
+		<entry>
+			<name> Know Your Worth </name>
+			<Artist> Khalid </Artist>
+			<genre> Pop </genre>
+			<year> 2020 </year>
+		</entry>
+		<entry>
+			<name> m.A.A.d City </name>
+			<Artist> Kendrick Lamar </Artist>
+			<genre> Rap </genre>
+			<year> 2012 </year>
+		</entry>
+		<entry>
+			<name> King Kunta </name>
+			<Artist> Kendrick Lamar </Artist>
 			<genre> Rap </genre>
 			<year> 2015 </year>
 		</entry>
 		<entry>
-			<name> OK </name>
-			<Artist> Artist1 </Artist>
-			<genre> Rap </genre>
-			<year> 2015 </year>
+			<name> Eleven </name>
+			<Artist> Khalid </Artist>
+			<genre> Pop </genre>
+			<year> 2020 </year>
 		</entry>
 		<entry>
-			<name> OK </name>
-			<Artist> Artist1 </Artist>
-			<genre> Rap </genre>
-			<year> 2015 </year>
-		</entry>
-		<entry>
-			<name> OK </name>
-			<Artist> Artist1 </Artist>
-			<genre> Rap </genre>
-			<year> 2015 </year>
-		</entry>
-		<entry>
-			<name> OK </name>
-			<Artist> Artist1 </Artist>
-			<genre> Rap </genre>
-			<year> 2015 </year>
+			<name> Happier </name>
+			<Artist> Marshmello </Artist>
+			<genre> Dance/Electric </genre>
+			<year> 2018 </year>
 		</entry>
 	</lists>
 
