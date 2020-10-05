@@ -15,19 +15,19 @@ title {
       color: white; 
 }
 
-name { position: center;
+name { position: fixed;
 	left: 0%
 }
 
-Artist {position: center;
+Artist {position: fixed;
 	left: 25%;
 }
 	
-genre {position: center;
+genre {position: fixed;
 	left: 50%;
 }
 
-year {position: center;
+year {position: fixed;
 	left: 75%;
 }
 
