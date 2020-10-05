@@ -16,27 +16,37 @@ title {
 	
 }
 
-name {	display: block;
+name {	display: inline-block;
 	font-size
-  	width: 200;
+  	width: 200px;
   	height: 20px;
   	padding: 5px;
   	border: 1px solid blue;
   	background-color: yellow;
 }
 
-Artist {display: block;
-  	width: 200;
+Artist {display: inline-block;
+  	width: 200px;
   	height: 20px;
   	padding: 5px;
   	border: 1px solid blue;
   	background-color: yellow;
 }
 	
-genre {margin-left: 600 px;
+genre {display: inline-block;
+  	width: 200px;
+  	height: 20px;
+  	padding: 5px;
+  	border: 1px solid blue;
+  	background-color: yellow;
 }
 
-year {margin-left: 800 px;
+year {display: inline-block;
+  	width: 200px;
+  	height: 20px;
+  	padding: 5px;
+  	border: 1px solid blue;
+  	background-color: yellow;
 }
 
 entry {
