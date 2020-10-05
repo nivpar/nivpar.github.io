@@ -16,29 +16,31 @@ title {
 	
 }
 
-name { position: relative;
-	left: 0%
-}
-
-Artist {position: relative;
-	left: 25%;
-}
-	
-genre {position: relative;
-	left: 50%;
-}
-
-year {position: relative;
-	left: 75%;
-}
-
-entry {
-	display: inline-block;
-  	width: 1000px;
+name {	display: block;
+	font-size
+  	width: 200;
   	height: 20px;
   	padding: 5px;
   	border: 1px solid blue;
   	background-color: yellow;
+}
+
+Artist {display: block;
+  	width: 200;
+  	height: 20px;
+  	padding: 5px;
+  	border: 1px solid blue;
+  	background-color: yellow;
+}
+	
+genre {margin-left: 600 px;
+}
+
+year {margin-left: 800 px;
+}
+
+entry {
+	display:block;
 }
 
 
