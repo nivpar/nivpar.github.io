@@ -34,8 +34,8 @@ year {position: relative;
 
 entry {
 	display: inline-block;
-  	width: 100px;
-  	height: 100px;
+  	width: 1000px;
+  	height: 20px;
   	padding: 5px;
   	border: 1px solid blue;
   	background-color: yellow;
