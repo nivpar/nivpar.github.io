@@ -6,6 +6,15 @@ lists {
   	background-color: aquamarine;
 }
 
+title {
+	display:block; 
+      font-weight:bolder; 
+      text-align:center; 
+      font-size:30px; 
+      background-color: green; 
+      color: white; 
+}
+	
 entry {
 	display:block;
 }
