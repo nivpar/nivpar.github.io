@@ -16,14 +16,24 @@ title {
 }
 
 name { left: 0%;
-	position :relative; 
+	position: relative; 
 }
 
 Artist {
 	left: 25%;
-	positioni: relative;
+	position: relative;
 }
 	
+genre {
+	left: 50%;
+	position: relative; 
+}
+
+year {
+	left: 75%;
+	position: relative;
+}
+
 entry {
 	display:block;
 }
