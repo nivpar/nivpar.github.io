@@ -4,6 +4,12 @@
 	<lists>
 		<title> My Song List </title>
 		<entry>
+			<name> Song Name </name>
+			<Artist> Artists </Artist>
+			<genre> Genre </genre>
+			<year> Year of Release </year>
+		</entry>
+		<entry>
 			<name> OK </name>
 			<Artist> Artist1 </Artist>
 			<genre> Rap </genre>
