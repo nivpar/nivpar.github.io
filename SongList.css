@@ -16,22 +16,18 @@ title {
 }
 
 name { left: 0%;
-	position: relative; 
 }
 
 Artist {
 	left: 25%;
-	position: relative;
 }
 	
 genre {
 	left: 50%;
-	position: relative; 
 }
 
 year {
 	left: 75%;
-	position: relative;
 }
 
 entry {
