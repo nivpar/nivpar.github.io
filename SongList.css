@@ -7,15 +7,15 @@ lists {
 }
 
 title {
-	display:block; 
-      font-weight:bolder; 
-      text-align:center; 
-      font-size:30px; 
-      background-color: green; 
-      color: white; 
+	display: inline-block;
+  	width: 100px;
+  	height: 100px;
+  	padding: 5px;
+  	border: 1px solid blue;
+  	background-color: yellow;
 }
 
-name { position: relative;
+/*name { position: relative;
 	left: 0%
 }
 
@@ -34,5 +34,5 @@ year {position: relative;
 entry {
 	display:block;
 }
-
+*/
 
