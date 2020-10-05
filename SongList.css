@@ -14,6 +14,15 @@ title {
       background-color: green; 
       color: white; 
 }
+
+name { left: 0%;
+	position :relative; 
+}
+
+Artist {
+	left: 25%;
+	positioni: relative;
+}
 	
 entry {
 	display:block;
