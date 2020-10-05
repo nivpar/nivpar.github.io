@@ -3,6 +3,7 @@ lists {
   	margin: 2em 1em;
   	border: 4px solid #cdf;
   	padding: 0px 1em;
+	text-align: left;
   	background-color: aquamarine;
 }
 
