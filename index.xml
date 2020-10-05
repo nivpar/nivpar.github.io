@@ -3,7 +3,6 @@
 	<!DOCTYPE lists>
 	<lists>
 		<title> My Song List </title>
-		<header> My Song List </header>
 		<entry>
 			<name> Test1 </name>
 			<Artist> Artist1 </Artist>
