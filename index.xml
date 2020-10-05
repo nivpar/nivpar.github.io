@@ -6,10 +6,14 @@
 		<entry>
 			<name> OK </name>
 			<Artist> Artist1 </Artist>
+			<genre> Rap </genre>
+			<year> 2015 </year>
 		</entry>
 		<entry>
 			<name> Test2 </name>
 			<Artist> Artist2 </Artist>
+			<genre> R@B </genre>
+			<year> 2017 </year>
 		</entry>
 	</lists>
 
